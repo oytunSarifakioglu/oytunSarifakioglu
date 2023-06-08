@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning new Software Technologies💻, Android and Flutter mobile application technologies📱 and AI Technologies
 - 💬 Ask me about new technologies in software as you can imagine😉
 
+# 💻Tech
+
+!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
 <!--
 **oytunSarifakioglu/oytunSarifakioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
