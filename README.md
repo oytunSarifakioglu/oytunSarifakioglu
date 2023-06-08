@@ -8,7 +8,7 @@
 
 # 💻Tech
 
-!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
+
 <!--
 **oytunSarifakioglu/oytunSarifakioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
