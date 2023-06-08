@@ -11,7 +11,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,dart,flutter,kotlin,androidstudio,figma,firebase,gradle,azure,git,github,mysql,postman,sqlite,stackoverflow,tensorflow,vscode)](https://skillicons.dev)
 
 # 📊My Stats
-https://github-readme-streak-stats.herokuapp.com/?user=oytunSarifakioglu
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oytunSarifakioglu&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **oytunSarifakioglu/oytunSarifakioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
