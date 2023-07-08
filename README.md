@@ -2,7 +2,7 @@
 
 ### Hi there 👋 This is Oytun Sarıfakıoğlu
 
-- 🔭 I’m currently working on IBTECH - QNB Finansbank
+- 🔭 I’m was working on IBTECH - QNB Finansbank
 - 🌱 I’m currently learning new Software Technologies💻, Android and Flutter mobile application technologies📱 and AI Technologies
 - 💬 Ask me about new technologies in software as you can imagine😉
 
